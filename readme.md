@@ -37,4 +37,4 @@ GPU bound
 
 插件源码解析
 ------------
-
+[UE5 Luma NeRF插件源码分析及实测-3A是个坏同志](https://blog.csdn.net/shuangguo121/article/details/150339180?sharetype=blogdetail&sharerId=150339180&sharerefer=PC&sharesource=FYZDMMCpp&spm=1011.2480.3001.8118)
